@@ -1,3 +1,3 @@
 # Services-F.T.
 
-Farming website for a company located Quebec.
+Website for a farming company located in Quebec.
